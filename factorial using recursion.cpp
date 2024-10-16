@@ -1,4 +1,4 @@
-//23070123014 Akshit Mathur
+//23070123007 Aditya Basak
 // To find the factorial of a number using recursion
 #include<iostream>
 using namespace std;
