@@ -1,4 +1,4 @@
-//23070123014 Akshit Mathur
+//23070123007 Aditya basak
 //To find the reverse of a number using recursion
 #include <iostream>
 using namespace std;
